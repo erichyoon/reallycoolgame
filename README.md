@@ -1,6 +1,9 @@
 # Really Cool Game
 
-A 2D platformer built with [Godot 4](https://godotengine.org/). The player runs and jumps across a tile-based level.
+A 2D platformer built with [Godot 4](https://godotengine.org/). The player runs and jumps across a tile-based level and experiences a really cool game full of fun grpahics!
+
+
+[Play it on itch.io](https://erichyoon.itch.io/really-cool)
 
 **Status:** Early development. Features and structure are subject to change.
 
